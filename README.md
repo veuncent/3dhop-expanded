@@ -1,3 +1,5 @@
+[Deprecated]
+
 # cvast-3dhop
 
 This is a customized implementation of [3D HOP](https://github.com/cnr-isti-vclab/3DHOP). The goal of this project is to add functionality that can be used to advance academic collaboration on 3D models. 
